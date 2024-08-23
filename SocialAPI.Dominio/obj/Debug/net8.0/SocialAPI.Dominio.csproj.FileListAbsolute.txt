@@ -1,0 +1,14 @@
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\bin\Debug\net8.0\SocialAPI.Dominio.exe
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\bin\Debug\net8.0\SocialAPI.Dominio.deps.json
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\bin\Debug\net8.0\SocialAPI.Dominio.runtimeconfig.json
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\bin\Debug\net8.0\SocialAPI.Dominio.dll
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\bin\Debug\net8.0\SocialAPI.Dominio.pdb
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.AssemblyInfoInputs.cache
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.AssemblyInfo.cs
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.dll
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\refint\SocialAPI.Dominio.dll
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.pdb
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\SocialAPI.Dominio.genruntimeconfig.cache
+C:\Users\CALEB\Documents\Visual Studio 2022\SocialAPI.Dominio\SocialAPI.Dominio\obj\Debug\net8.0\ref\SocialAPI.Dominio.dll

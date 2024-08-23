@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SocialAPI.Infraestructura.API.props" />
+</Project>

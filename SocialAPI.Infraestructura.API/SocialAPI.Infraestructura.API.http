@@ -1,0 +1,6 @@
+@SocialAPI.Infraestructura.API_HostAddress = http://localhost:5286
+
+GET {{SocialAPI.Infraestructura.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
